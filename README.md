@@ -1,7 +1,7 @@
 ```
-cd /Users/myuser/Library/Application Support/abnerworks.Typora/themes
-wget https://github.com/adesurirey/typora-notes-dark-theme/archive/master.zip
-unzip typora-notes-dark-theme-master.zip notes-dark.css notes-dark/
+cd "${HOME}/Library/Application Support/abnerworks.Typora/themes"
+wget https://github.com/elitistsnob/typora-cobalt-theme/releases/download/v1.4/typora-cobalt-theme-master-v1.4.zip
+unzip typora-cobalt-theme-master-v1.4.zip cobalt.css cobalt/*
 ```
 
 ```
