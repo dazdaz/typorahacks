@@ -1,5 +1,6 @@
-remap 'Shift+Return' to 'Return'
-remap 'Return' to 'Shift+Return'
+* remap 'Shift+Return' to 'Return'
+* remap 'Return' to 'Shift+Return'
+* https://www.hammerspoon.org/
 
 ```
 -- global
