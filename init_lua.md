@@ -1,4 +1,4 @@
-# typorahacks
+```
 
 -- global
 
@@ -53,3 +53,4 @@ end
 
 watcher = hs.application.watcher.new(handleGlobalEvent)
 watcher:start()
+```
