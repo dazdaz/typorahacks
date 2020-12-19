@@ -1,5 +1,7 @@
-```
+remap 'Shift+Return' to 'Return'
+remap 'Return' to 'Shift+Return'
 
+```
 -- global
 
 hs.hotkey.bind({"cmd", "alt", "ctrl"}, "R", function()
