@@ -1,3 +1,5 @@
+* https://github.com/elitistsnob/typora-cobalt-theme/
+
 ```
 cd "${HOME}/Library/Application Support/abnerworks.Typora/themes"
 wget https://github.com/elitistsnob/typora-cobalt-theme/releases/download/v1.4/typora-cobalt-theme-master-v1.4.zip
