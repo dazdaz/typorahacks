@@ -6,6 +6,7 @@ wget https://github.com/elitistsnob/typora-cobalt-theme/releases/download/v1.4/t
 unzip typora-cobalt-theme-master-v1.4.zip cobalt.css cobalt/*
 ```
 
+This works well on a 13" laptop
 ```
 https://theme.typora.io/theme/cobalt/
 html {
