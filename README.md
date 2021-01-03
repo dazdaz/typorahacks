@@ -13,3 +13,17 @@ html {
     font-size: 1.1rem;
 }
 ```
+
+Underneath body
+```
+#write {
+    background: #131b29;
+    color: #a9aaab;
+    margin: 0 auto;
+    max-width: 2000px;
+    padding: 10px;
+    padding-bottom: 40px;
+    position: static;
+    width: 90%;
+}
+```
