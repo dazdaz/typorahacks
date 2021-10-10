@@ -21,9 +21,9 @@ Underneath body
     background: #131b29;
     color: #a9aaab;
     margin: 0 auto;
-    max-width: 2000px;
-    padding: 10px;
-    padding-bottom: 40px;
+    max-width: 100%;
+    padding: 30px;
+    padding-bottom: 100px;
     position: static;
     width: 90%;
 }
